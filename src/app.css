@@ -1,0 +1,27 @@
+table {
+    width:70%;
+    margin-left: 20px;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+button{
+    margin-left: 20px;
+}
+.add-module-form{
+    margin-left: 20px;
+}
+input{
+    margin: 10px;
+}
